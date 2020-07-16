@@ -1,2 +1,3 @@
 This is first git practice.
-I'm 24 years old.
+I'm 24 years old
+and I visited Germany recently.
